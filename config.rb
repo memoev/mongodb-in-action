@@ -1,0 +1,10 @@
+DATABASE_HOST   = 'localhost'
+DATABASE_PORT   = 27017
+DATABASE_NAME   = "twitter-archive"
+COLLECTION_NAME = "tweets"
+TAGS    = ["#MongoDB", "#Mongo"]
+
+CONSUMER_KEY    = "S1jmpHWTCwDgaN0ENG23myl9k"
+CONSUMER_SECRET = "yvkY3O3tZNF0lV9ytFw1nN07ZM42wEmWKqaeGGHTTHat92oajg"
+TOKEN           = "1137641089832083456-MAz9FZsLwfW3vKn9qQQkhQXVj5wthm"
+TOKEN_SECRET    = "BamYLXdwqBv4JfyEYf4G2bznyLu58X1va7XtS5oOHlZSx"
